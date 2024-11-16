@@ -12,7 +12,7 @@ x = np.linspace(-10, 10, 100)  # Range from -10 to 10 with 100 points
 y = sigmoid(x)
 
 # Plot the sigmoid function
-plt.figure(figsize=(8, 5))
+plt.figure(figsize=(8, 5))#hello
 plt.plot(x, y, label="Sigmoid Function", color="blue")
 plt.title("Sigmoid Function")
 plt.xlabel("x")
