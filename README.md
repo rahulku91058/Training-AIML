@@ -1,2 +1,2 @@
 # Training-AIML
-AIML (Artificial Intelligence Markup Language) training involves learning to create conversational agents or chatbots using AIML scripts. It focuses on designing pattern-based responses and refining interaction logic to simulate human-like conversations.
+Artificial Intelligence (AI) and Machine Learning (ML) training equips individuals with the knowledge to design, implement, and optimize intelligent systems. It covers key concepts like data processing, model building, and algorithm development for real-world problem-solving.
